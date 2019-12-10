@@ -5,6 +5,10 @@ iOS PlayBook and cheatsheet.
 
 Bla bla
 
+## Animation
+
+* [Accepted animation](https://github.com/cocoatoucher/AIFlatSwitch)
+
 ## Text Specific 
 
 * [AnyFormatKit](https://github.com/luximetr/AnyFormatKit)
