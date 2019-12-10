@@ -18,5 +18,6 @@ Bla bla
 
 ## Pin Code
 
-## VIPER
+## Architecture
+### VIPER
 
