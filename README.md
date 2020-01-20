@@ -8,6 +8,7 @@ Bla bla
 ## Animation
 
 * [Accepted animation](https://github.com/cocoatoucher/AIFlatSwitch)
+* [Alert banner](https://github.com/Daltron/NotificationBanner)
 
 ## Text Specific 
 
